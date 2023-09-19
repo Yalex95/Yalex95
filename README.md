@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Yeris , I'm an computer systems engineer
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React js, and wordpress theme development
-- 💞️ I’m looking to collaborate on web proyects
-- 📫 How to reach me yerisaguilarg@gmail.com
+- 👋 Hello there! I'm Yeris, and I am a passionate front-end web developer with a deep love for crafting captivating digital experiences.
+- My journey in the world of web development has led me to master a diverse array of front end web tools and technologies.
 
+Take a Look to my web portfolio!
+https://yalex95.github.io/portfolio/
