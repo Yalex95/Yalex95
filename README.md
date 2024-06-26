@@ -2,7 +2,7 @@
 
 <p> Hello there! I'm Yeris, and I am a passionate front-end web developer with a deep love for crafting captivating digital experiences.</p>
 <h2>Tech stack</h2>
-
+<p>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -16,12 +16,12 @@
   <img alt="" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-  
+  </p>
   
   ## Stats
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yalex95&show_icons=true&theme=onedark)
 
-  ## Take a Look to my web portfolio!
+## Take a Look to my web portfolio!
 
-  https://yalex95.github.io/portfolio/
+https://yalex95.github.io/portfolio/
