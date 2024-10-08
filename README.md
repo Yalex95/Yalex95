@@ -1,5 +1,3 @@
-<img alt="github_profile_img" src="./git_background.png"/>
-
 <p> Hello there! I'm Yeris, and I am a passionate front-end web developer with a deep love for crafting captivating digital experiences.</p>
 <h2>Tech stack</h2>
 <p>
