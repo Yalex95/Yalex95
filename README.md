@@ -22,4 +22,4 @@
 
 ## Take a Look to my web portfolio!
 
-https://yalex95.github.io/portfolio/
+https://yerisdev.netlify.app/
