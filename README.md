@@ -31,9 +31,6 @@
 
 </div>
 
-## Stats
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yalex95&show_icons=true&theme=onedark)
 
 ## Take a Look to my web portfolio!
 
