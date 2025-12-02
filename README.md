@@ -34,6 +34,6 @@
 
 ## Take a Look to my web portfolio!
 
-https://yerisdev.netlify.app/
+[https://yerisdev.vercel.app/](https://yerisdev.vercel.app/)
 
 
